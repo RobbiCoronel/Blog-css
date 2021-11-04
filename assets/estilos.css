@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
+.img-es{
+    height: 200px;
+    width: 200x;
+    display:block;
+    margin:auto;
+}
+
+.img-pas{
+    height: 240px;
+    width: 500px;
+}
